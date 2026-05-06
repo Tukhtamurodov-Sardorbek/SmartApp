@@ -24,6 +24,7 @@ node_modules
 *.dex
 *.ap_
 *.arsc
+*.hprof
 bin/
 gen/
 out/
